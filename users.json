@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Ali",
+    "age": 19,
+    "profession": "Agentic AI Engineer",
+    "hobby": "playing Cricket",
+    "todos": [
+      "that he have to go to school tomorrow",
+      "Watch cricket match"
+    ]
+  },
+  {
+    "name": "Usman",
+    "age": 30,
+    "profession": "Doctor",
+    "hobby": "mountains",
+    "todos": [
+      "Plan mountain trip",
+      "Buy hiking gear",
+      "wathc seri",
+      "attend the lecture tomorrow"
+    ]
+  }
+]
