@@ -136,6 +136,6 @@ MIT License. Free to use and modify.
 
 ## ✨ Author
 
-Made by \[Bilal Rafique] – [@yourusername](https://github.com/bilal-157)
+Made by Bilal Rafique – [GitHub](https://github.com/bilal-157)
 
 ```
